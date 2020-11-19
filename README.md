@@ -1,0 +1,2 @@
+# GameStock
+Tienda de videojuegos.
